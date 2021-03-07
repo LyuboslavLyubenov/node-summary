@@ -1,12 +1,12 @@
 {
-  "name": "node-summary",
+  "name": "@lyuboslavlyubenov/node-summary",
   "version": "1.2.0",
   "description": "Summarizes text using a naive summarization algorithm",
   "main": "./lib/summary.js",
   "scripts": {
     "test": "mocha --compilers js:babel-core/register --require should --reporter spec"
   },
-  "repository": "git://github.com/jbrooksuk/node-summary.git",
+  "repository": "git://github.com/LyuboslavLyubenov/node-summary.git",
   "keywords": [
     "summary",
     "text",
